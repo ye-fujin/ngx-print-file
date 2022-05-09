@@ -1,6 +1,26 @@
 {
   "name": "yfj-ngx-print-file-sample-app",
   "version": "1.0.0",
+  "description": "A demo app demonstrating how to use the Angular `yfjNgxPrintFile` directive to print files in a new tab",
+  "author": "https://github.com/ye-fujin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ye-fujin/yfj-ngx-print-file.git"
+  },
+  "license": "MIT",
+  "bugs": "https://github.com/ye-fujin/yfj-ngx-print-file/issues",
+  "homepage": "https://github.com/ye-fujin/yfj-ngx-print-file#readme",
+  "keywords": [
+    "angular",
+    "library",
+    "dependency",
+    "directive",
+    "angular-print-file",
+    "ng-print-file",
+    "ngx-print-file",
+    "print-file",
+    "demo-app"
+  ],
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
