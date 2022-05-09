@@ -23,7 +23,7 @@ Angular directive to print files in a new tab. Please, refer to the demo app [he
 
 3. Use `[yfjNgxPrintFile]="yourObservableReturningBlob()"` to print your file
     ```
-    <button class="yjf-get-file-btn" [yfjNgxPrintFile]="getFile()">Print file</button>
+    <button [yfjNgxPrintFile]="getFile()">Print file</button>
     ```
 
 This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
@@ -43,7 +43,7 @@ After building your library with `ng build yfj-ngx-print-file`, go to the dist f
 
 ## Running unit tests
 
-Run `ng test yfj-ngx-print-file` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test yfj-ngx-print-file` to execute the unit tests via [Jest](https://jestjs.io).
 
 ## Further help
 

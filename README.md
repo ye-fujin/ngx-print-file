@@ -1,6 +1,6 @@
 # YfjNgxPrintFileSampleApp
 
-A demo app demonstrating how to use the Angular `yfjNgxPrintFile` directive to print files in a new tab.
+A demo app demonstrating how to use the Angular `yfjNgxPrintFile` directive to print files in a new tab. Please, refer to the `yfjNgxPrintFile` readme [here](https://github.com/ye-fujin/yfj-ngx-print-file/blob/main/projects/yfj-ngx-print-file/README.md)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
 
@@ -18,7 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Run `ng test` to execute the unit tests via [Jest](https://jestjs.io).
 
 ## Running end-to-end tests
 

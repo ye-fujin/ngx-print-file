@@ -1,6 +1,6 @@
 {
   "name": "yfj-ngx-print-file",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Angular directive to print files in a new tab",
   "author": "https://github.com/ye-fujin",
   "repository": {
